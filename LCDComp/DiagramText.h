@@ -1,5 +1,5 @@
 #pragma once
-#include "C:\Users\Tijani\Documents\Visual Studio 2013\Projects\LCDComp\LCDComp\DiagramEditor\DiagramEntity.h"
+#include "DiagramEditor/DiagramEntity.h"
 
 class CDiagramText :
 	public CDiagramEntity

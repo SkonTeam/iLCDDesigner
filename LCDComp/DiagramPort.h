@@ -1,5 +1,5 @@
 #pragma once
-#include "DiagramEntity.h"
+#include "DiagramEditor/DiagramEntity.h"
 class CDiagramPort :
 	public CDiagramEntity
 {
